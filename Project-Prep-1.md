@@ -1,3 +1,9 @@
+### Team 2 - 27 FEB 23
+    ## Jordan Marshall
+    ## Justin Tabios
+    ## Lamin Touray
+    ## Robert Gregor
+    
 ### **Cooperation Plan**
 
 - **What are the key strengths of each person on the team?**
