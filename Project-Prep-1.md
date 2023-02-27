@@ -1,8 +1,8 @@
 ### Team 2 - 27 FEB 23
-    ## Jordan Marshall
-    ## Justin Tabios
-    ## Lamin Touray
-    ## Robert Gregor
+## Jordan Marshall
+## Justin Tabios
+## Lamin Touray
+## Robert Gregor
     
 ### **Cooperation Plan**
 
