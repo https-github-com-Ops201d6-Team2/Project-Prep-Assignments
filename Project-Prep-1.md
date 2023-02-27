@@ -87,13 +87,13 @@
 ### **Git Process**
 
 - **What components of your project will live on GitHub?**
-    -  ?
+    -  Our repositories & Wiki's for the Project Prep assignments, deliverables, and code.
 
 - **How will you share the repository with your teammates?**
-    - ?
+    - We have created an organization and all team members have accepting invitations with admin privileges.
 
 - **What is your Git flow?**
-    - ?
+    - As team members complete different portions of the project they are responsible for they will update the repository and notify team members.
 
 - **Will you be using a PR review workflow? If so, consider:**
     - **How many people must review a PR?**
