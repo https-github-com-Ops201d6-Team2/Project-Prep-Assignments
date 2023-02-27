@@ -96,11 +96,11 @@
     - As team members complete different portions of the project they are responsible for they will update the repository and notify team members.
 
 - **Will you be using a PR review workflow? If so, consider:**
-    - **How many people must review a PR?**
-        - ?
-    - **Who merges PRs?**
-        - ?
-    - **How often will you merge?**
-        - ?
-    - **How will you communicate that it’s time to merge?**
-        - ?
+- **How many people must review a PR?**
+    - All members if we implent it
+- **Who merges PRs?**
+    - Any team member is capable as we all have admin access
+- **How often will you merge?**
+    - As deliverables are completed
+- **How will you communicate that it’s time to merge?**
+    - All team members will be notified on slack
