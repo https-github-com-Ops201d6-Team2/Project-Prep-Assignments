@@ -8,7 +8,7 @@
 - Install malware
 - Explain how our firewall system works in terms of the employees position 
 
-# Lab 9 - User Profiles
+# Lab 9 - User Profiles & Settings
 - User profile set up (remove bloatware)
 - Thunderbird set up
 - RDP settings 
